@@ -1,4 +1,6 @@
-**Sudoku Generator and Solver**
+<h1>Sudoku Generator and Solver</h1>
+
+
 This is a program that aims to generate and solve the popular soduku puzzle
 
 A soduku puzzle is 9 X 9 board game where the aim is to fill a row, column and block with numbers
